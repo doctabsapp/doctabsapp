@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/doctabsapp/DocTabs-releases/releases/latest/download/DocTabs.dmg">Download for Mac</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/doctabsapp/DocTabs-releases/releases/latest/download/DocTabs-setup.exe">Download for Windows</a>
+  <a href="https://apps.microsoft.com/detail/9pj1jq22qp0w">Download for Windows</a>
   &nbsp;·&nbsp;
   <a href="https://doctabs.app">doctabs.app</a>
 </p>
